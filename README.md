@@ -50,7 +50,7 @@ Quickly locate the **IP address** and **port** of your active game session!
 ![image](https://github.com/user-attachments/assets/086bf190-a157-4246-8550-4fd0a60b465f)
 ## Finds rotating IPS!
 ![image](https://github.com/user-attachments/assets/5765cf8b-ff4f-4926-9d8a-e5be8f30f4d7)
-![image](https://github.com/user-attachments/assets/e4fa675a-11d8-4710-a4d1-53eb616a0b83)
+
 
 
 ## Links
