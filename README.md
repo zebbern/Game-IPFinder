@@ -1,5 +1,5 @@
 
-# Instant Lobby IP Finder for Games
+# Lobby IP Finder for Games
 
 Quickly locate the **IP address** and **port** of your active game session!
 
