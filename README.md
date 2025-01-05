@@ -1,3 +1,8 @@
+## Important 
+```Folder 1``` Simple run 1 cmd command then py file                      | Only get IP from COD live session
+```Folder 2``` Advanced - This little coding knowledge                    | Choose what program to get live session out of "UDP Only"
+```Folder 3``` Experienced - This requires that you know coding/debugging | All options with more options
+
 
 # Lobby IP Finder for Games
 
